@@ -1,5 +1,3 @@
-The module5 directory contains work regarding "Will the Customer Accept the Coupon?"
-
 Will the Customer Accept the Coupon?¶
 
 1.	Commands to start data investigation. This includes head(), sample(), and info(). I notice many columns have “object” or string types.
