@@ -1,4 +1,4 @@
-Will the Customer Accept the Coupon?¶
+Will the Customer Accept the Coupon?
 
 1.	Commands to start data investigation. This includes head(), sample(), and info(). I notice many columns have “object” or string types.
 2.	Look into data with isnull(). The columns car, Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, and Restraunt20to50 contain null values. The column ‘car’ is entirely empty. Several entries (rows) are missing many attributes (columns).
