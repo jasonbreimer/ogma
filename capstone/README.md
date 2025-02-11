@@ -1,4 +1,4 @@
-### Understanding influence of manufacturer and model on price in used cars.
+### Driving Decisions: A Data-Driven Approach to Used Car Inventory Management
 
 **Jason Reimer**
 
