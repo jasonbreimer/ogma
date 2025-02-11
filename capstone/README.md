@@ -12,7 +12,8 @@ In the competitive used car industry, dealerships vary in their approach to inve
 Which car manufacturer or model should used car dealerships focus on to maximize value?
 
 #### Data Sources
-The source is a dataset (vehicles.csv) containing information on 426K used cars.
+The source is a dataset (vehicles.csv) containing information on 426K used cars also included in the /data directory vehicles.zip.
+The cleaned data file (capstone_ready.csv) has also been included and placed in the root directory called capston_ready.zip.
 
 #### Methodology
 1. Data Cleaning: Preprocess data to ensure accuracy.
