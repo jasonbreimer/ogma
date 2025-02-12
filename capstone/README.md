@@ -3,7 +3,7 @@
 **Jason Reimer**
 
 #### Executive summary
-This project examines the features of used cars that influence their prices, aiming to identify actionable insights for dealerships to optimize inventory decisions and maximize value.
+This project examines the features of used cars that influence their prices, particularly the manufacturer and model. It aims to identify actionable insights for dealerships to optimize inventory decisions and maximize value.
 
 #### Rationale
 In the competitive used car industry, dealerships vary in their approach to inventory—some offer a diverse range, while others specialize in specific types. This study seeks to uncover relationships between car features and prices to better inform inventory strategies and enhance dealership value.
@@ -26,13 +26,15 @@ The cleaned data file (capstone_ready.csv) has also been included and placed in 
 8. Final Model: Develop a refined model using the newly created features.
 
 #### Results
-Premium Value Influence: Manufacturers with a higher perceived "premium" value influence prices differently. This led to the creation of a new feature, c_premium, mapping a premium value score to manufacturers. This feature, combined with the model information, produced the model_premium_interaction term.
 
-Car Age Influence: The influence of car age on price varies by manufacturer, resulting in the creation of the model_age_factor. This feature was used to develop the model/car age interaction term.
+Findings:
 
-Model Explanation:
-The model_age_factor reflects the relative age of each car within its model group. If a car's log_car_age is above the average for its model, its model_age_factor will be greater than 1, and if below average, less than 1.
-The model_premium_interaction captures the combined effects of the car model and its premium status on the target variable, providing a more nuanced prediction.
+Model Age Influence: The influence of car age on price varies by manufacturer. The model_age_factor reflects this variation, showing that the relative age of each car within its model group impacts its price.
+
+Premium Influence: Manufacturers with a higher perceived "premium" value influence prices differently. The model_premium_interaction term captures the combined effects of the car model and its premium status on the price, providing a more nuanced prediction.
+
+Recommendations:
+Dealerships should prioritize partnering with large manufacturers due to the broad spectrum of models they offer across various price ranges. Additionally, focus on manufacturers that maintain more stable pricing, enabling dealerships to source a diverse range of models with predictable costs. This strategic focus mitigates price volatility, making inventory management more reliable and efficient.
 
 #### Next steps
 Price Trend Analysis: Analyze price trends by manufacturer to identify those with the most stable prices over time.
