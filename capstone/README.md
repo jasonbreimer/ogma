@@ -41,9 +41,8 @@ Price Trend Analysis: Analyze price trends by manufacturer to identify those wit
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Link to notebook 1](https://github.com/jasonbreimer/ogma/blob/88adc605449b4548f6b7c83a1910a02135203626/capstone/capstone_preview.ipynb)
+
 
 
 ##### Contact and Further Information
