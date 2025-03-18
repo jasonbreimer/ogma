@@ -30,3 +30,12 @@ Our model revealed compelling insights about how vehicle age impacts price diffe
 Taking our analysis further, we examined price stability across manufacturers to identify those offering the most predictable and moderate pricing patterns. By plotting manufacturers along a Gaussian distribution based on their price volatility, we identified **Ford Motor Company** and **Toyota Motor Corporation** as standout examples of large manufacturers with diverse vehicle fleets and moderate price stability. Both companies demonstrated transformed stability scores near the center of the distribution (0.196 and 0.195 respectively), making them particularly valuable partners for dealerships seeking predictable inventory costs. Their extensive data points (29,591 for Ford and 19,249 for Toyota) across various models and price ranges further strengthens the reliability of these findings.
 
 For dealerships in the National Used Car Association, these results offer clear strategic direction. We recommend prioritizing partnerships with larger manufacturers that offer a broad spectrum of models across various price ranges, with a particular focus on those maintaining more stable pricing patterns. By adopting this approach, dealerships can source diverse inventory with more predictable costs, mitigating price volatility and making inventory management more reliable and efficient. The Random Forest model we developed, with its impressive 0.91 R² score on test data, provides a robust foundation for pricing strategy. By leveraging the manufacturer-specific insights from our model, dealerships can make more informed decisions about which vehicles to acquire, when to adjust pricing, and how to optimize their inventory mix for both customer appeal and financial stability.
+
+#### Outline of project
+
+- [Link to Final Capstone Juypter]()
+
+
+##### Contact and Further Information
+email: rud90j@gmail.com
+
