@@ -1,3 +1,16 @@
+### Driving Decisions: A Data-Driven Approach to Used Car Inventory Management
+
+**Jason Reimer**
+
+#### Executive summary
+This project examines the features of used cars that influence their prices, particularly the manufacturer and model. It aims to identify actionable insights for dealerships to optimize inventory decisions and maximize value.
+
+#### Rationale
+In the competitive used car industry, dealerships vary in their approach to inventory—some offer a diverse range, while others specialize in specific types. This study seeks to uncover relationships between car features and prices to better inform inventory strategies and enhance dealership value.
+
+#### Research Question
+Which car manufacturer or model should used car dealerships focus on to maximize value?
+
 ### Project Findings Highlights
 
 **Model Age Influence:** The influence of car age on price varies by manufacturer. The model_age_factor reflects this variation, showing that the relative age of each car within its model group impacts its price.
