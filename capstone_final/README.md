@@ -13,11 +13,15 @@ Which car manufacturer or model should used car dealerships focus on to maximize
 
 ### Project Findings Highlights
 
-**Model Age Influence:** The influence of car age on price varies by manufacturer. The model_age_factor reflects this variation, showing that the relative age of each car within its model group impacts its price.
+**Feature Engineering Impact:** Our analysis revealed two critical engineered features that significantly improved model performance:
+- **Model Age Factor:** Car age impacts price differently by manufacturer, with the model_age_factor capturing how a vehicle's relative age within its model group affects valuation.
+- **Premium Interaction:** The model_premium_interaction term effectively captures how premium status and model combine to influence pricing, providing more nuanced predictions.
 
-**Premium Influence:** Manufacturers with a higher perceived "premium" value influence prices differently. The model_premium_interaction term captures the combined effects of the car model and its premium status on the price, providing a more nuanced prediction.
+**Model Performance:** After systematic evaluation of multiple algorithms, Random Forest emerged as the superior model with a test R² of 0.91 and MSE of 0.09, outperforming neural networks and traditional regression approaches.
 
-**Recommendations:** Dealerships should prioritize partnering with large manufacturers due to the broad spectrum of models they offer across various price ranges. Additionally, focus on manufacturers that maintain more stable pricing, enabling dealerships to source a diverse range of models with predictable costs. This strategic focus mitigates price volatility, making inventory management more reliable and efficient.
+**Price Stability Insights:** Analysis of manufacturer price volatility identified Ford Motor Company and Toyota Motor Corporation as having moderate and balanced price stability, with stability scores near 0.20 and positioned near the center of the distribution curve.
+
+**Recommendations:** Dealerships should prioritize partnerships with large manufacturers like Ford and Toyota that offer broad model ranges while maintaining stable pricing. This strategic focus enables sourcing diverse inventory with predictable costs, making inventory management more reliable and efficient.
 
 ### Project Narrative Summary
 
