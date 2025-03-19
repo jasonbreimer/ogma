@@ -37,7 +37,7 @@ For dealerships in the National Used Car Association, these results offer clear 
 
 #### Outline of project
 
-- [Link to Final Capstone Juypter]()
+- [Link to Final Capstone Jupyter](https://github.com/jasonbreimer/ogma/blob/main/capstone_final/capstone_final.ipynb)
 
 
 ##### Contact and Further Information
